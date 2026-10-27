@@ -1,8 +1,10 @@
-## Hi, I'm Charles Omega
+## Hi, I'm Charles Omega 👋
 
-**Founder, Omega Global Health Consulting (OGHC)** · Registered Clinical Officer · Nairobi, Kenya
+**Health systems consultant helping East African payers, providers and health-tech teams turn claims and care data into better decisions.**
 
-I work where healthcare, insurance and health-tech meet. I help payers, providers and health-tech teams across East Africa run cleaner claims, stronger provider networks and better decisions from their data.
+Founder, Omega Global Health Consulting (OGHC) · Registered Clinical Officer · Nairobi, Kenya
+
+🔭 **Currently:** launching OGHC and building its website, and developing Power Query pipelines for claims utilisation analysis.
 
 ### What OGHC does
 - **Claims & utilisation review**: pre-authorisation, utilisation review, claims audit
@@ -19,5 +21,7 @@ I work where healthcare, insurance and health-tech meet. I help payers, provider
 ### Tools
 Power BI · Power Query (M) · Advanced Excel
 
-### Contact
-📧 info@oghcglobal.com
+### Let's work together
+Open to partnerships with insurers, providers and health-tech teams across East Africa.
+
+📧 info@oghcglobal.com · 🌐 [oghcglobal.com](https://oghcglobal.com)
