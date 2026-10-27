@@ -20,4 +20,4 @@ I work where healthcare, insurance and health-tech meet. I help payers, provider
 Power BI · Power Query (M) · Advanced Excel
 
 ### Contact
-📧 oghcglobal@gmail.com
+📧 info@oghcglobal.com
