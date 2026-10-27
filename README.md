@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Charles Omega
 
-<!--
-**Charly-KO/Charly-KO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder, Omega Global Health Consulting (OGHC)** · Registered Clinical Officer · Nairobi, Kenya
 
-Here are some ideas to get you started:
+I work where healthcare, insurance and health-tech meet. I help payers, providers and health-tech teams across East Africa run cleaner claims, stronger provider networks and better decisions from their data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What OGHC does
+- **Claims & utilisation review**: pre-authorisation, utilisation review, claims audit
+- **Provider networks & partnerships**: network design, provider relations, contracting support
+- **Healthcare data analytics**: Power BI dashboards, Power Query pipelines, advanced Excel
+- **Health-tech business development**: market entry and partnerships in East African healthcare
+- **Medical insurance guidance**: impartial advice on choosing cover (advisory only, OGHC does not sell insurance)
+
+### Background
+- 4+ years in care management, pre-authorisation, discharge planning and utilisation review
+- Strategic Partnerships & Business Development Lead, AfyaConnect Africa
+- Bachelor of Health Systems Management & Development (in progress), Amref University
+
+### Tools
+Power BI · Power Query (M) · Advanced Excel
+
+### Contact
+📧 oghcglobal@gmail.com
